@@ -1,0 +1,1 @@
+# example-talend-write-file-with-HDFS
